@@ -1,0 +1,62 @@
+Day 02 - Assignment
+
+1.List 5 difference between Browser JS(console) v Nodejs
+
+
+S.No	Javascript	NodeJS
+1.	
+Javascript is a programming language that is used for writing scripts on the website. 
+ 
+
+ 
+
+NodeJS is a Javascript runtime environment.
+2.	Javascript can only be run in the browsers.	We can run Javascript outside the browser with the help of NodeJS.
+3.	It is basically used on the client-side.	It is mostly used on the server-side.
+4.	Javascript is capable enough to add HTML and play with the DOM. 
+ 	Nodejs does not have capability to add HTML tags.
+5.	Javascript can run in any browser engine as like JS core in safari and Spidermonkey in Firefox. 
+ 	V8 is the Javascript engine inside of node.js that parses and runs Javascript. 
+6.	Javascript is used in frontend development.	Nodejs is used in server-side development.
+7.	Some of the javascript frameworks are RamdaJS, TypedJS, etc. 
+ 	Some of the Nodejs modules are Lodash, express etc. These modules are to be imported from npm. 
+ 
+8.	It is the upgraded version of ECMA script that uses Chrome’s V8 engine written in C++. 
+ 	Nodejs is written in C, C++ and Javascript.
+
+2. watch & summary 5 points -
+
+Summary of  how does the browser actually render a website
+
+1. Parsing to DOM Tree
+2. DOM Tree to Render Tree
+3. It Actually 4 Trees
+      The Layers
+      The Line Boxes
+      Render Objects
+      Render styles
+
+4. Layout computes where a Node will be on the screen
+5. Painting computes Bitmap and composites to screen
+
+3. Execute the below code and write your description in txt file
+typeof(1)   - number
+typeof(1.1)  - number
+typeof('1.1') - string
+typeof(true) - boolean
+typeof(null) - object
+typeof(undefined) - undefined
+typeof([]) - object
+typeof({}) - function
+typeof(NaN) - number
+
+
+
+4. Read what is prototype.?
+
+
+A prototype is an early sample, model, or release of a product built to test a concept or process. It is a term used in a variety of contexts, including semantics, design, electronics, and software programming. A prototype is generally used to evaluate a new design to enhance precision by system analysts and users.
+
+Prototype is a working model of existing system. The prototyping model is a systems development method in which a prototype is built, tested and then reworked as necessary until an acceptable outcome is achieved from which the complete system or product can be developed.
+
+Prototyping is an experimental process where design teams implement ideas into tangible forms from paper to digital. Teams build prototypes of varying degrees of fidelity to capture design concepts and test on users. With prototypes, you can refine and validate your designs so your brand can release the right products.
